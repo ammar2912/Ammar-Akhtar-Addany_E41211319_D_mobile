@@ -3,10 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/projek Semesterer 4/minggu6/Acara28/app/src/main/res/layout/activity_buat_biodata.xml" value="0.1" />
-        <entry key="..\:/projek Semesterer 4/minggu6/Acara28/app/src/main/res/layout/activity_lihat_biodata.xml" value="0.6" />
-        <entry key="..\:/projek Semesterer 4/minggu6/Acara28/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/projek Semesterer 4/minggu6/Acara28/app/src/main/res/layout/activity_update_biodata.xml" value="0.2" />
+        <entry key="..\:/projek Semesterer 4/minggu9/app/src/main/res/layout/acara31_login.xml" value="0.1" />
+        <entry key="..\:/projek Semesterer 4/minggu9/app/src/main/res/layout/acara31_register.xml" value="0.1" />
+        <entry key="..\:/projek Semesterer 4/minggu9/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/projek Semesterer 4/minggu9/app/src/main/res/menu/logout.xml" value="0.1" />
       </map>
     </option>
   </component>
