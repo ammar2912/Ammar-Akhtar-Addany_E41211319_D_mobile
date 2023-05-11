@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/projek Semesterer 4/Minggu 10 3/app/src/main/res/drawable/bg_rounded.xml" value="0.123" />
+        <entry key="..\:/projek Semesterer 4/Minggu 10 3/app/src/main/res/drawable/design_header.xml" value="0.124" />
+        <entry key="..\:/projek Semesterer 4/Minggu 10 3/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.123" />
+        <entry key="..\:/projek Semesterer 4/Minggu 10 3/app/src/main/res/drawable/ic_baseline_looks_3_24.xml" value="0.123" />
+        <entry key="..\:/projek Semesterer 4/Minggu 10 3/app/src/main/res/drawable/ic_baseline_looks_one_24.xml" value="0.123" />
+        <entry key="..\:/projek Semesterer 4/Minggu 10 3/app/src/main/res/drawable/ic_baseline_looks_two_24.xml" value="0.123" />
+        <entry key="..\:/projek Semesterer 4/Minggu 10 3/app/src/main/res/drawable/ic_image.xml" value="0.123" />
+        <entry key="..\:/projek Semesterer 4/Minggu 10 3/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/projek Semesterer 4/Minggu 10 3/app/src/main/res/layout/fragmen_film.xml" value="0.11197916666666667" />
+        <entry key="..\:/projek Semesterer 4/Minggu 10 3/app/src/main/res/layout/json_api.xml" value="0.253125" />
+        <entry key="..\:/projek Semesterer 4/Minggu 10 3/app/src/main/res/layout/json_parse.xml" value="0.25416666666666665" />
+        <entry key="..\:/projek Semesterer 4/Minggu 10 3/app/src/main/res/layout/list_item.xml" value="0.253125" />
+        <entry key="..\:/projek Semesterer 4/Minggu 10 3/app/src/main/res/layout/list_item_film.xml" value="0.1" />
+        <entry key="..\:/projek Semesterer 4/Minggu 10 3/app/src/main/res/layout/list_row.xml" value="0.253125" />
+        <entry key="..\:/projek Semesterer 4/Minggu 10 3/app/src/main/res/layout/moviedb.xml" value="0.11302083333333333" />
+        <entry key="..\:/projek Semesterer 4/Minggu 10 3/app/src/main/res/layout/toolbar_main.xml" value="0.11302083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

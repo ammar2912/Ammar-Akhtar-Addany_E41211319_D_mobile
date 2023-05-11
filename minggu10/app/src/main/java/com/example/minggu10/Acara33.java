@@ -35,8 +35,8 @@ public class Acara33 extends FragmentActivity implements OnMapReadyCallback {
 
         // Add a marker in Sydney and move the camera
 
-        LatLng sydney = new LatLng(-34, 151);
-        mMap.addMarker(new MarkerOptions().position(sydney).title("Marker in Sydney"));
-        mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
+        LatLng Alun = new LatLng(-8.168938467340006, 113.70227633175033);
+        mMap.addMarker(new MarkerOptions().position(Alun).title("Marker in Alun-Alun Jember"));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(Alun));
     }
 }
